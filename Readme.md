@@ -5,7 +5,7 @@ This is a note set which tracks my own daily life, Projects, IT techniques, etc.
 
 ##Project tree
 
-* [Notes](./)  
+[Notes](./)  
   * [daily life](./daily_life)
   * [Projects](./Projects)  
     * [Project Charlie](./Projects/Project_Charlie)
