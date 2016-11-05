@@ -27,6 +27,3 @@ This directory contains some IT tricks
 
 The file of every note must contains a entry named
 > tags: <tag1>, <tag2>, <tag3>, etc.
-
-
-
