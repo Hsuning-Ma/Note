@@ -3,7 +3,9 @@
 [TOC]
 
 ##Project tree
-  [Notes](./)
+
+.
+* [Notes](./)
   * [daily life](./daily_life)
   * [Projects](./Projects)
     * [Project Charlie](./Projects/Project_Charlie)
