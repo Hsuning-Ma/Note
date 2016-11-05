@@ -7,7 +7,7 @@ And it will be pushed to [BitBucket](https://bitbucket.org/Hsuning_Ma/note).
 ##Project tree
   * [daily life](./Daily_life)
     * [2016](./Daily_life/2016)
-      * [11](./Daily_life/2016/11)
+    .. * [11](./Daily_life/2016/11)
   * [Projects](./Projects)  
     * [Project Charlie](./Projects/Project_Charlie)
     * [Project Delta](./Projects/Project_Delta)
