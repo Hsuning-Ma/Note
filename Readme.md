@@ -9,11 +9,11 @@
   * [IT techniques](./IT_techniques)
 
 ##details
-- `daily life`
+- `*daily life*`
 This directory contains the dairy of daily life.
-- `Projects`
+- `*Projects*`
 This directory contains the note which tracks my projects
-- `IT_techniques`
+- `*IT_techniques*`
 This directory contains some IT tricks
 
 ##tags
