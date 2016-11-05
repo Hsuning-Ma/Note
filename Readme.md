@@ -6,6 +6,8 @@
 * [Projects](./)
   * [daily life](./daily_life)
   * [Projects](./Projects)
+    * [Project Charlie](./Projects/Project_Charlie)
+    * [Project Delta](./Projects/Project_Delta)
   * [IT techniques](./IT_techniques)
 
 ##details
