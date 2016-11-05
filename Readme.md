@@ -1,6 +1,6 @@
 #Note#
 This is a note set which tracks my own daily life, Projects, IT techniques, etc.
-And it will be pushed to [BitBucket](bitbucket.org).
+And it will be pushed to [BitBucket](https://bitbucket.org/Hsuning_Ma/note).
 
 [TOC]
 
