@@ -4,13 +4,11 @@ This is a note set which tracks my own daily life, Projects, IT techniques, etc.
 [TOC]
 
 ##Project tree
-
-[Notes](./)  
-  * [daily life](./daily_life)  
+  * [daily life](./daily_life)
   * [Projects](./Projects)  
     * [Project Charlie](./Projects/Project_Charlie)
     * [Project Delta](./Projects/Project_Delta)
-  * [IT techniques](./IT_techniques)  
+  * [IT techniques](./IT_techniques)
 
 ##details
 - **daily life**
